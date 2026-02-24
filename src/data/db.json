@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "$2a$10$DWvGs7AL7EmAnCiiFnPH..dh1eXFuviZGtkr.ZfUMmXdEyal8hIaK",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "superadmin@example.com",
+      "password": "$2a$10$xa/WdkPmkg4FnXQXuLAMEelKvwtUflsbxN6ulz73fEHJzQZ6NIJy6",
+      "role": "superadmin"
+    },
+    {
+      "email": "adminrendy@example.com",
+      "password": "$2a$10$Z0Ci9/GnBKSgpuUOta8V9.PfubjUT9aWVmFJPLR/Z1Zdg8u/Tsnwy",
+      "role": "admin",
+      "id": 3
+    }
+  ]
+}
