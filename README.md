@@ -122,3 +122,4 @@ With more time and resources, the following features are planned for implementat
 2.  **Referral Program**: Implementation of reference codes for new home owners. Referrers will earn rewards or discounts, helping to grow the renovation community.
 3.  **Enhanced Security**: Migration from `localStorage` to `HttpOnly` cookies for better security.
 4.  **Brand-Aligned UI Colors**: Research and implement a consistent color system aligned with the project’s brand identity, accessibility standards, and overall user experience.
+5.  **Scalable State Management**: Refactor global state handling from React Context API to Redux to better manage complex application state, improve scalability, and maintain predictable data flow as the application grows.
